@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-buffer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create a zero-filled contiguous linear ndarray data buffer.",
   "license": "Apache-2.0",
   "author": {
