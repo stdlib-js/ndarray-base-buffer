@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/buffer-alloc-unsafe": "^0.0.x",
     "@stdlib/ndarray-base-buffer-ctors": "^0.0.x",
-    "@stdlib/types": "^0.0.x"
+    "@stdlib/types": "^0.0.x",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/array-complex128": "^0.0.x",
