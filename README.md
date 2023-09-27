@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import buffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-buffer@deno/mod.js';
+import buffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-buffer@v0.1.1-deno/mod.js';
 ```
 
 #### buffer( dtype, size )
@@ -109,7 +109,7 @@ var buf = buffer( 'float', 3 );
 
 ```javascript
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@deno/mod.js';
-import buffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-buffer@deno/mod.js';
+import buffer from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-buffer@v0.1.1-deno/mod.js';
 
 var DTYPES = dtypes();
 var buf;
