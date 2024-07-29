@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/buffer-alloc-unsafe": "^0.2.2",
     "@stdlib/ndarray-base-buffer-ctors": "^0.2.1",
-    "@stdlib/types": "^0.3.2"
+    "@stdlib/types": "^0.3.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-bool": "^0.0.1",
