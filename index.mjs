@@ -1,0 +1,4 @@
+// Copyright (c) 2025 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
+/// <reference types="./index.d.ts" />
+import r from"https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-resolve-str@v0.2.2-esm/index.mjs";import s from"https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-buffer-ctors@v0.3.0-esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/buffer-alloc-unsafe@v0.2.2-esm/index.mjs";import t from"https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros@v0.2.2-esm/index.mjs";import n from"https://cdn.jsdelivr.net/gh/stdlib-js/array-base-fill@esm/index.mjs";function i(i,d){var m=r(i);return"generic"===m?t(d):"binary"===m?function(r){return n(e(r),0,0,r)}(d):function(r,e){var t=s(r);return t?new t(e):null}(i,d)}export{i as default};
+//# sourceMappingURL=index.mjs.map
