@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-12-29)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`2a887b7`](https://github.com/stdlib-js/stdlib/commit/2a887b7eb76a7f0ecc48133049868395b90ff196) - **refactor:** support data type instances _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2024-07-29)
