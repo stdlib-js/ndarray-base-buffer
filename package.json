@@ -42,7 +42,8 @@
     "@stdlib/buffer-alloc-unsafe": "^0.2.2",
     "@stdlib/ndarray-base-buffer-ctors": "^0.3.0",
     "@stdlib/ndarray-base-dtype-resolve-str": "^0.2.2",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-bool": "^0.1.0",
