@@ -37,10 +37,10 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-base-fill": "github:stdlib-js/array-base-fill#main",
+    "@stdlib/array-base-fill": "^0.1.0",
     "@stdlib/array-base-zeros": "^0.2.2",
     "@stdlib/buffer-alloc-unsafe": "^0.2.2",
-    "@stdlib/ndarray-base-buffer-ctors": "^0.3.0",
+    "@stdlib/ndarray-base-buffer-ctors": "^0.4.0",
     "@stdlib/ndarray-base-dtype-resolve-str": "^0.3.0",
     "@stdlib/types": "^0.4.3"
   },
