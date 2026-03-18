@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-18)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`5a84c39`](https://github.com/stdlib-js/stdlib/commit/5a84c39850bf22552f8ab108d4cc3255a3a0cdf6) - **bench:** refactor to use string interpolation in `ndarray/base/buffer` [(#11020)](https://github.com/stdlib-js/stdlib/pull/11020) _(by Partha Das)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Partha Das
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
